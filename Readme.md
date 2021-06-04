@@ -1,4 +1,4 @@
-# Co-Win Notifier v2
+# Co-Win Notifier v3
 
 ![BD](https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png)
 
@@ -12,8 +12,16 @@ https://posts.specterops.io/what-is-it-that-makes-a-microsoft-executable-a-micro
 This is an open source program, which does not collect any user data. The app only accesses the CoWIN API for getting the slots information and Telegram API for sending alerts. 
 
 
+### Changelog v3:
+- [\d.]+ <- Regex updated for getting app latest version | now supports app version number in decimal
+- Radio buttons changed to checkboxes (for free, paid slots options)
+- Added vaccine name filter (Sputnik V, Covishield, Covaxin)
+- Added back button in pinmode, district and slots retry window
+- Changed slot retry time to 3.5 Seconds from 5 seconds (Now making approx. 85 calls are made in 5 minutes [100 calls limit in 5 minutes])
+- Auth code digits reduced to 6 from 8
+- Lot of bug fixes and UI improvements
 
-### Changelog:
+### Changelog v2:
 - Added Telegram alert 
     - Does auth process between user and bot and bot and user
     - chatid is saved in the telcofig.txt file so that after rebooting the program, configuring the telegram is not required
