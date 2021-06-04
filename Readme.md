@@ -1,6 +1,6 @@
 # Co-Win Notifier v2
 
-![BD](https://github.com/ashvnv/Co-Win-Notifier/blob/master/Pics/Screenshot%20from%202021-05-21%2020-51-55.png)
+![BD](https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png)
 
 ### Read Before Using This Software!
 
