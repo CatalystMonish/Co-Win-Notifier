@@ -1,10 +1,8 @@
-> This is a forked project. Original Co-Win Notifier (v1) can be found [here](https://github.com/CatalystMonish/Co-Win-Notifier)<br>
-
 # Co-Win Notifier v3
 
 ![BD](https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png)
 
-> Download for Windows 10<br><img src="https://raw.githubusercontent.com/ashvnv/miscellaneous/main/temppics/win10_download.png" width=100><br>
+> Download for Windows 10 x64<br><img src="https://raw.githubusercontent.com/ashvnv/miscellaneous/main/temppics/win10_download.png" width=100><br>
 >[click here!](https://bit.ly/CoWinNotifier)
 
 ### Read Before Using This Software!
