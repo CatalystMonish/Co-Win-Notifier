@@ -3,7 +3,7 @@
 ![BD](https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png)
 
 > Download for Windows 10 x64<br><img src="https://raw.githubusercontent.com/ashvnv/miscellaneous/main/temppics/win10_download.png" width=100><br>
->[click here!](https://bit.ly/CoWinNotifier)
+>[click here!](http://bit.ly/cowinnotifierIO)
 
 ### Read Before Using This Software!
 
