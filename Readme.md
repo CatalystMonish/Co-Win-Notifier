@@ -1,4 +1,4 @@
-# Co-Win Notifier v3
+# Co-Win Notifier v3.1
 
 ![BD](https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png)
 
