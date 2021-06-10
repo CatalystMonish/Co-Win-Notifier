@@ -14,6 +14,15 @@ Read more on why windows considers non-signed programs virus:
 https://posts.specterops.io/what-is-it-that-makes-a-microsoft-executable-a-microsoft-executable-b43ac612195e
 This is an open source program, which does not collect any user data. The app only accesses the CoWIN API for getting the slots information and Telegram API for sending alerts. 
 
+### Changelog v3.1:
+- Added Azure ttk theme [v1.3] # Copyright (c) 2021 rdbende <rdbende@gmail.com> | https://github.com/rdbende/Azure-ttk-theme
+- Slot retry time reduced to 3.1 Seconds
+- UI improvements
+- Added start window which shows the startup operations performed by the app (checking network[1], checking for updates[2], getting vaccine data[3]). Start window operations are threaded
+- App now reads the vaccine data (vaccine name, API JSON search name) from github repository [https://raw.githubusercontent.com/ashvnv/miscellaneous/main/updates/vaccinedatab.txt] and accordingly enables or disables the vaccine checkbox
+- Added try-except block wherever the program performs networking operation and accordingly gives indication to the user if error occurs
+
+## In-app Update link broken prior to v3.1
 
 ### Changelog v3:
 - [\d.]+ <- Regex updated for getting app latest version | now supports app version number in decimal
