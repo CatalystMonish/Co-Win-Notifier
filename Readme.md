@@ -1,4 +1,4 @@
-# Co-Win Notifier v3.1
+# Co-Win Notifier v3.2
 
 ![BD](https://raw.githubusercontent.com/ashvnv/Co-Win-Notifier/master/Pics/mainwin.png)
 
@@ -13,6 +13,9 @@ This utitlity is not signed with any certificates, so Windows may flag this file
 Read more on why windows considers non-signed programs virus:
 https://posts.specterops.io/what-is-it-that-makes-a-microsoft-executable-a-microsoft-executable-b43ac612195e
 This is an open source program, which does not collect any user data. The app only accesses the CoWIN API for getting the slots information and Telegram API for sending alerts. 
+
+### Changelog v3.2:
+- App plays alert tone when slot is found [sound.wav in data/]
 
 ### Changelog v3.1:
 - Added Azure ttk theme [v1.3] # Copyright (c) 2021 rdbende <rdbende@gmail.com> | https://github.com/rdbende/Azure-ttk-theme
